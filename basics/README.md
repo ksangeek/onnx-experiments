@@ -7,9 +7,9 @@
 - Online protobuf decoder - https://protogen.marcgravell.com/decode
 - ONNX MLIR (ONNX specification to ONNX MLIR dialect -
 https://github.com/onnx/onnx/blob/master/onnx/defs/gen_doc.py)
-  - onnx-mlir —EmitONNXIR
-  - onnx-mlir —EmitMLIR
-  - onnx-mlir —EmitLLVMIR
+  - `onnx-mlir --EmitONNXIR`
+  - `onnx-mlir --EmitMLIR`
+  - `onnx-mlir --EmitLLVMIR`
 
 ### Setup
 
